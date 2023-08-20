@@ -42,6 +42,6 @@ To reproduce the results of this project, follow these steps:
 
 ## Acknowledgments
 
-This project was completed as part of Codeacademy's data analysis initiative.
+This project was completed as part of Codeacademy's data science course.
 
 Please note that this README provides a high-level overview of the project. For detailed instructions and code, refer to the analysis script and associated files.
